@@ -1,7 +1,7 @@
 KindaReplClient
 ===============
 
-*Really tiny client for KindaRepl_*
+*Really tiny client for KindaRepl*
 
 .. _KindaRepl: https://github.com/Tanchey/KindaRepl
 
